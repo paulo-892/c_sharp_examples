@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0fe2a275_002Dce14_002D48c2_002D8c21_002D3616f79735ec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from LogLevelsTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;5C0BAA52-BA9F-AA7A-9AE8-2C5B42C0C89F/f:LogLevelsTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=16e29fa1_002D87be_002D4341_002Da368_002D451b22c47e8c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Error_log_level #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5C0BAA52-BA9F-AA7A-9AE8-2C5B42C0C89F::net7.0::LogLevelsTests.Error_log_level&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=74d75cc0_002Dbb8d_002D4da7_002D9116_002D51802e3a3adb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Error_log_level" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5C0BAA52-BA9F-AA7A-9AE8-2C5B42C0C89F::net7.0::LogLevelsTests.Error_log_level&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cbd2e5a9_002D5bd2_002D46f3_002Da66f_002D444fdbdb9c4c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Error_log_level #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5C0BAA52-BA9F-AA7A-9AE8-2C5B42C0C89F::net7.0::LogLevelsTests.Error_log_level&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e19ccf8d_002Df538_002D4ec3_002D9f95_002Daa161cdf9ef5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from LogLevelsTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;5C0BAA52-BA9F-AA7A-9AE8-2C5B42C0C89F/f:LogLevelsTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

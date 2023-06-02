@@ -1,0 +1,43 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=38062dbf_002Df07e_002D4b4b_002Dacd0_002Dbbf079df45bf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstringAfter_WithDelimiterOfLength1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A946F596-2D04-3169-6BB0-1E54A7C9E0DF::net7.0::LogAnalysisTests.SubstringAfter_WithDelimiterOfLength1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c3e238d_002Dc95c_002D44a8_002Daf53_002D59a004d71fa4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from LogAnalysisTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;A946F596-2D04-3169-6BB0-1E54A7C9E0DF/f:LogAnalysisTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=54a2901e_002Dc960_002D4f49_002Daa6f_002Dfc7599129c48/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstringAfter_WithDelimiterOfLength1 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A946F596-2D04-3169-6BB0-1E54A7C9E0DF::net7.0::LogAnalysisTests.SubstringAfter_WithDelimiterOfLength1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6bd45705_002D791a_002D4aa6_002D8cd1_002Dc65bdb07f087/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SubstringAfter_WithDelimiterOfLength1 #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;A946F596-2D04-3169-6BB0-1E54A7C9E0DF/f:LogAnalysisTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6e7b70e4_002Dcdb5_002D4b1f_002D80b9_002Df31ef5096e5e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstringAfter_WithDelimiterOfLength1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A946F596-2D04-3169-6BB0-1E54A7C9E0DF::net7.0::LogAnalysisTests.SubstringAfter_WithDelimiterOfLength1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8c703c95_002D790a_002D4858_002D98b0_002D6f7ff198cab2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstringAfter_WithDelimiterOfLength1 #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A946F596-2D04-3169-6BB0-1E54A7C9E0DF::net7.0::LogAnalysisTests.SubstringAfter_WithDelimiterOfLength1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b8769e78_002Ded6b_002D425d_002D972f_002D4a1d3e092fef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstringBetween" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A946F596-2D04-3169-6BB0-1E54A7C9E0DF::net7.0::LogAnalysisTests.SubstringBetween&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d47bcebc_002D272d_002D4369_002D9ee7_002D2cccaf30a1ce/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LogAnalysisTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A946F596-2D04-3169-6BB0-1E54A7C9E0DF::net7.0::LogAnalysisTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=de8c00dd_002D62d0_002D4115_002Db1f2_002D8a06f46de90e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubstringAfter_WithDelimiterOfLength1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A946F596-2D04-3169-6BB0-1E54A7C9E0DF::net7.0::LogAnalysisTests.SubstringAfter_WithDelimiterOfLength1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
