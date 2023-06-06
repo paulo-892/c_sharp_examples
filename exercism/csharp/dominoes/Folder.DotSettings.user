@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=30179401_002D01aa_002D46b1_002Da673_002D08886a451f39/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from DominoesTests.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;CC2BF75E-D6ED-E61E-E74F-949E86D98911/f:DominoesTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d490a4d1_002D49b9_002D4e03_002D8c85_002D4d46b4e0e6f6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DominoesTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;CC2BF75E-D6ED-E61E-E74F-949E86D98911/f:DominoesTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f78f7784_002D3dfe_002D47ac_002D9199_002D69cee4e5aa56/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DominoesTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;CC2BF75E-D6ED-E61E-E74F-949E86D98911/f:DominoesTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
