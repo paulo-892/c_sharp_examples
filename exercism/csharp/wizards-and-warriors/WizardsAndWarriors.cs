@@ -1,50 +1,61 @@
 using System;
+using Xunit.Sdk;
 
 abstract class Character
 {
+    private readonly string _characterType;
+    
     protected Character(string characterType)
     {
-        throw new NotImplementedException("Please implement the Character() constructor");
+        _characterType = characterType;
     }
 
     public abstract int DamagePoints(Character target);
 
     public virtual bool Vulnerable()
     {
-        throw new NotImplementedException("Please implement the Character.Vulnerable() method");
+        return false;
     }
 
     public override string ToString()
     {
-        throw new NotImplementedException("Please implement the Character.ToString() method");
+        return $"Character is a {_characterType}";
     }
 }
 
 class Warrior : Character
 {
-    public Warrior() : base("TODO")
+    public Warrior() : base("Warrior")
     {
     }
 
     public override int DamagePoints(Character target)
     {
-        throw new NotImplementedException("Please implement the Warrior.DamagePoints() method");
+        return target.Vulnerable() ? 10 : 6;
     }
 }
 
 class Wizard : Character
 {
-    public Wizard() : base("TODO")
+    private bool _spellPrepared;
+    
+    public Wizard() : base("Wizard")
     {
+        _spellPrepared = false;
     }
 
     public override int DamagePoints(Character target)
     {
-        throw new NotImplementedException("Please implement the Wizard.DamagePoints() method");
+        return _spellPrepared ? 12 : 3;
     }
 
     public void PrepareSpell()
     {
-        throw new NotImplementedException("Please implement the Wizard.PrepareSpell() method");
+        _spellPrepared = true;
+    }
+
+    public override bool Vulnerable()
+    {
+        return !_spellPrepared;
     }
 }
